@@ -1,0 +1,17 @@
+arr=[2,11,4,122,5,43,8]
+print(arr)
+arr.append(292)
+print(arr)
+arr.insert(3,555)
+print(arr)
+arr.remove(555)
+print(arr)
+arr.sort()
+print(arr)
+arr.sort(reverse=True)
+print(arr)
+top=(1)
+print(type(top))
+top=(1,)
+print(type(top))
+
